@@ -6,7 +6,7 @@ to /output/entry.txt.
 
 import os
 
-TEXT = "Eat."
+TEXT = "Unplugit"
 
 
 def main():
