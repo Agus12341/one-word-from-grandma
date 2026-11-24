@@ -8,7 +8,7 @@ An entry for make.fun's [One Word From Grandma](https://make.fun/bounty/u-0xkian
 
 `main.py` writes exactly one word - the word grandma would text about AI - to `/output/entry.txt`, with no trailing newline, then reads it back and checks it is a single word of 1 to 30 characters.
 
-The word: **Eat.**
+The word: **Unplugit**
 
 ## Layout
 
